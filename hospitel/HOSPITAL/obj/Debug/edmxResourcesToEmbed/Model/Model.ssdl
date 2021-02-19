@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище HOSPITALModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DOCTOR">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Doctorname" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Post" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Idskill" Type="int" Nullable="false" />
+    <Property Name="Idspecialization" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PATIENT">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fullname" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Dateofbirth" Type="datetime" Nullable="false" />
+    <Property Name="Idstatus" Type="int" Nullable="false" />
+    <Property Name="Idposition" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="POSITIONTABLE">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Position" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SKILLTABLE">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Skill" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SPECIALIZATIONTABLE">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Specialization" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="STATUSTABLE">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Status" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="THERAPY">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Diagnose" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Ambulatory" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Disability" Type="int" Nullable="false" />
+    <Property Name="Begintherapy" Type="datetime" Nullable="false" />
+    <Property Name="Idpatient" Type="int" Nullable="false" />
+    <Property Name="Iddoctor" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_DOCTOR_IDPOSITION_POSITIONTABLE_ID">
+    <End Role="POSITIONTABLE" Type="Self.POSITIONTABLE" Multiplicity="1" />
+    <End Role="PATIENT" Type="Self.PATIENT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="POSITIONTABLE">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PATIENT">
+        <PropertyRef Name="Idposition" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DOCTOR_IDSKILL_SKILLTABLE_ID">
+    <End Role="SKILLTABLE" Type="Self.SKILLTABLE" Multiplicity="1" />
+    <End Role="DOCTOR" Type="Self.DOCTOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SKILLTABLE">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DOCTOR">
+        <PropertyRef Name="Idskill" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DOCTOR_IDSPECIALIZATION_SKILLTABLE_ID">
+    <End Role="SPECIALIZATIONTABLE" Type="Self.SPECIALIZATIONTABLE" Multiplicity="1" />
+    <End Role="DOCTOR" Type="Self.DOCTOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SPECIALIZATIONTABLE">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DOCTOR">
+        <PropertyRef Name="Idspecialization" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PATIENT_IDSTATUS_STATUSTABLE_ID">
+    <End Role="STATUSTABLE" Type="Self.STATUSTABLE" Multiplicity="1" />
+    <End Role="PATIENT" Type="Self.PATIENT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STATUSTABLE">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PATIENT">
+        <PropertyRef Name="Idstatus" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_THERAPY_IDDOCTOR_DOCTOR_ID">
+    <End Role="DOCTOR" Type="Self.DOCTOR" Multiplicity="1" />
+    <End Role="THERAPY" Type="Self.THERAPY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DOCTOR">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="THERAPY">
+        <PropertyRef Name="Iddoctor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_THERAPY_IDPATIENT_PATIENT_ID">
+    <End Role="PATIENT" Type="Self.PATIENT" Multiplicity="1" />
+    <End Role="THERAPY" Type="Self.THERAPY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PATIENT">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="THERAPY">
+        <PropertyRef Name="Idpatient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище HOSPITALModelContainer">
+    <EntitySet Name="DOCTOR" EntityType="Self.DOCTOR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PATIENT" EntityType="Self.PATIENT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="POSITIONTABLE" EntityType="Self.POSITIONTABLE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SKILLTABLE" EntityType="Self.SKILLTABLE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SPECIALIZATIONTABLE" EntityType="Self.SPECIALIZATIONTABLE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STATUSTABLE" EntityType="Self.STATUSTABLE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="THERAPY" EntityType="Self.THERAPY" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DOCTOR_IDPOSITION_POSITIONTABLE_ID" Association="Self.FK_DOCTOR_IDPOSITION_POSITIONTABLE_ID">
+      <End Role="POSITIONTABLE" EntitySet="POSITIONTABLE" />
+      <End Role="PATIENT" EntitySet="PATIENT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DOCTOR_IDSKILL_SKILLTABLE_ID" Association="Self.FK_DOCTOR_IDSKILL_SKILLTABLE_ID">
+      <End Role="SKILLTABLE" EntitySet="SKILLTABLE" />
+      <End Role="DOCTOR" EntitySet="DOCTOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DOCTOR_IDSPECIALIZATION_SKILLTABLE_ID" Association="Self.FK_DOCTOR_IDSPECIALIZATION_SKILLTABLE_ID">
+      <End Role="SPECIALIZATIONTABLE" EntitySet="SPECIALIZATIONTABLE" />
+      <End Role="DOCTOR" EntitySet="DOCTOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PATIENT_IDSTATUS_STATUSTABLE_ID" Association="Self.FK_PATIENT_IDSTATUS_STATUSTABLE_ID">
+      <End Role="STATUSTABLE" EntitySet="STATUSTABLE" />
+      <End Role="PATIENT" EntitySet="PATIENT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_THERAPY_IDDOCTOR_DOCTOR_ID" Association="Self.FK_THERAPY_IDDOCTOR_DOCTOR_ID">
+      <End Role="DOCTOR" EntitySet="DOCTOR" />
+      <End Role="THERAPY" EntitySet="THERAPY" />
+    </AssociationSet>
+    <AssociationSet Name="FK_THERAPY_IDPATIENT_PATIENT_ID" Association="Self.FK_THERAPY_IDPATIENT_PATIENT_ID">
+      <End Role="PATIENT" EntitySet="PATIENT" />
+      <End Role="THERAPY" EntitySet="THERAPY" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
