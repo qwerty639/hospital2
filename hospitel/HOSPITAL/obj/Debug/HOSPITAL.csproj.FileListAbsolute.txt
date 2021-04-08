@@ -1,0 +1,195 @@
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.exe.config
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.exe
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.pdb
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\MenuPage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\MenuPage.baml
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.g.resources
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.exe
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.pdb
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddDoctorPage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddPacientPage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddTherapyPage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\GridPages\PacientGridPage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddDoctorPage.baml
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddPacientPage.baml
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddTherapyPage.baml
+C:\Users\Пользователь\Desktop\Новая папка\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\GridPages\PacientGridPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddDoctorPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddPacientPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddTherapyPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\MenuPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.exe
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.pdb
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.exe.config
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.exe
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.pdb
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\GridPages\PacientGridPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddDoctorPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddPacientPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddTherapyPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\MenuPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\GridPages\PacientGridPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.g.resources
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\GridPages\DoctorGridPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\GridPages\DoctorGridPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\GridPages\TherapyGridPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\GridPages\TherapyGridPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL_Content.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditDoctorPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditPacientPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditDoctorPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditPacientPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\bin\Debug\HOSPITAL.exe.config
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\bin\Debug\HOSPITAL.exe
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\bin\Debug\HOSPITAL.pdb
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddDoctorPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddPacientPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddTherapyPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditDoctorPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditPacientPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\GridPages\DoctorGridPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\GridPages\TherapyGridPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\MenuPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\GridPages\PacientGridPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL_Content.g.cs
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddDoctorPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddPacientPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddTherapyPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditDoctorPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditPacientPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\GridPages\DoctorGridPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\GridPages\TherapyGridPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\MenuPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Pages\GridPages\PacientGridPage.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL.g.resources
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL.exe
+C:\Users\Пользователь\Desktop\hospital\HOSPITAL\obj\Debug\HOSPITAL.pdb
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\bin\Debug\HOSPITAL.exe.config
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\bin\Debug\HOSPITAL.exe
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\bin\Debug\HOSPITAL.pdb
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddDoctorPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddPacientPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddTherapyPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditDoctorPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditPacientPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\DoctorGridPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\TherapyGridPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\MenuPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\PacientGridPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL_Content.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddDoctorPage.baml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddPacientPage.baml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddTherapyPage.baml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditDoctorPage.baml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditPacientPage.baml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\DoctorGridPage.baml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\TherapyGridPage.baml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\MenuPage.baml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\PacientGridPage.baml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL.g.resources
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL.exe
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\HOSPITAL.pdb
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditTherapyPage.g.cs
+C:\Users\Пользователь\Desktop\hospital\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditTherapyPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddDoctorPage.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddPacientPage.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddTherapyPage.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditDoctorPage.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditPacientPage.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditTherapyPage.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\DoctorGridPage.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\TherapyGridPage.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\MenuPage.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\PacientGridPage.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL_Content.g.cs
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL.exe
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL.pdb
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\HOSPITAL.exe.config
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\HOSPITAL.exe
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\HOSPITAL.pdb
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddDoctorPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddPacientPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\AddPages\AddTherapyPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditDoctorPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditPacientPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\EditPages\EditTherapyPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\DoctorGridPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\TherapyGridPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\MenuPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Pages\GridPages\PacientGridPage.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL.g.resources
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\HOSPITAL.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\MaterialDesignColors.dll
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Пользователь\Desktop\HOSPITAL\hospital2-main\hospitel\HOSPITAL\obj\Debug\App.baml
